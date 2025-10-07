@@ -27,5 +27,5 @@ jobs:
           echo "Estrutura do repositorio : "
           ls -la
           echo "exemplo de listar um diretorio"
-          ls -la api || echo"não existe um diretorio"
+          ls -la api || echo "não existe um diretorio"
 
