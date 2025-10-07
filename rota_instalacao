@@ -1,0 +1,12 @@
+clona repositorio
+git clone https://github.com/eduardotribst/engsistemas25.git
+
+muda para o diretorio engSistemas25
+inicializa proj node
+
+npm init -y
+
+atualiza github
+git add .
+git commit -m "Inicializando o projeto actions"
+git push origin main
